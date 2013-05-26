@@ -1,0 +1,16 @@
+snakegamefunctions.o: SnakeGameFunctions.c
+snakegamefunctions.o: C:\Keil\ARM\RV31\INC\stdio.h
+snakegamefunctions.o: C:\Keil\ARM\RV31\INC\stdlib.h
+snakegamefunctions.o: Output.h
+snakegamefunctions.o: ..\driverlib/interrupt.h
+snakegamefunctions.o: ..\inc/hw_types.h
+snakegamefunctions.o: ..\inc/hw_ints.h
+snakegamefunctions.o: ..\driverlib/gpio.h
+snakegamefunctions.o: ..\driverlib/pin_map.h
+snakegamefunctions.o: ..\inc/hw_memmap.h
+snakegamefunctions.o: systick.h
+snakegamefunctions.o: rit128x96x4.h
+snakegamefunctions.o: gpio.h
+snakegamefunctions.o: ..\inc/lm3s1968.h
+snakegamefunctions.o: registersDimi.h
+snakegamefunctions.o: SnakeGameFunctions.h

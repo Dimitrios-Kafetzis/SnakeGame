@@ -1,0 +1,1 @@
+-c --cpu Cortex-M3 -D__EVAL -D__MICROLIB -g -O0 --apcs=interwork -I.. -I..\..\.. -I "C:\Keil\ARM\CMSIS\Include" -I "C:\Keil\ARM\INC\Luminary" -o "snakegamefunctions.o" --omf_browse "snakegamefunctions.crf" --depend "snakegamefunctions.d" "SnakeGameFunctions.c"
